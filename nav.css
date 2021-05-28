@@ -1,0 +1,29 @@
+nav
+   {
+	    background-color: green;
+	    overflow: hidden;
+    }
+nav ul
+	{
+		list-style: none;
+	}
+nav ul li a
+	{
+			text-align:center;
+			padding: 5px;
+			height: 20px;
+			width: 100px;
+			text-decoration: none;
+			float: right;
+			line-height: 10px;
+			color:white;
+			margin-top: -25px;
+	}
+.img
+	{
+			height: 50px;
+			width: 50px;
+			border-radius:50px;
+			margin-top: 20px;
+			margin-left: 10px;
+	}
